@@ -1,1 +1,1 @@
-# ConcesionariaTP2
+# ConcesionariaTP2 El siguiente proyecto es una concesionaria, realizado en lenguaje JAVA version JDK21,un proyecto en Maven, realizada en VSC, con dependencias: Spring Boot Dev Tools, Spring web, utiliza libreria LOMBOK,utiliza conceptos de herencia, interfaz, division de responsabilidades, una aplicacion prometedora ya que esta diseñada para que sea escalable a futuro. 
